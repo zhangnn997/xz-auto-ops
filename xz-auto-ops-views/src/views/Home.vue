@@ -7,9 +7,11 @@
       </el-aside>
       <!-- 内容区域 -->
       <el-container>
+        <!-- 头部 -->
         <el-header>
           <header-container></header-container>
         </el-header>
+        <!-- 主题内容 -->
         <el-main>
           <router-view/>
         </el-main>

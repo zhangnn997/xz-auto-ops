@@ -1,4 +1,4 @@
-# xz-ops
+# xz-auto-ops
 
 ## Project setup
 ```
